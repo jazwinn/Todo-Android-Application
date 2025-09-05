@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WeatherAPI"
+rootProject.name = "todoList"
 include(":app")
  
